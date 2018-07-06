@@ -1,0 +1,2 @@
+var Twitter = new twit(config);
+
